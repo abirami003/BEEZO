@@ -55,9 +55,9 @@ The analysis results are summarized as follows:
 
  ### Recommendations
 
- - Adjusting inventory levels based on sales trends
- - Promoting high-margin products or popular items
- - Implementing targeted marketing campaigns during peak periods
+ - To improve performance in May and June, launch targeted promotions or special offers that cater to seasonal trends 
+ - Low Perfomers are Varadarajan, Abbas, and Mohammad. To improve their performance: provide focused training tailored to their specific challenges, set clear and measurable goals, and schedule regular check-ins for progress assessment. If necessary, consider reassigning them to roles that better match their skills.
+ - Low selling products are Brownies,Donuts and Pudding, To boost the sales offer with 10% discount
 
 
 🍰 | 🧁 | 🍫 | 🍞 | 🥞
